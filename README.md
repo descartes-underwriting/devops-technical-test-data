@@ -28,6 +28,11 @@ Access should be granted to all members of the `descartes-underwriting` group:
 
 <https://github.com/orgs/descartes-underwriting/people>
 
+Especially:
+
+* <https://github.com/alexandreCameron>
+* <https://github.com/Mareak>
+
 ### Script
 
 Create a script to automate the backup process using open source software.
