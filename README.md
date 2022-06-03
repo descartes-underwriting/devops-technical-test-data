@@ -32,6 +32,7 @@ Especially:
 
 * <https://github.com/alexandreCameron>
 * <https://github.com/Mareak>
+* <https://github.com/jrdescartes>
 
 ### Script
 
@@ -48,6 +49,8 @@ It is highly recommended to use a scheduling tool to execute the back up process
 The backup should store files in separate folders.
 
 The backup file structure should be based on the sha1 of the `descartes-underwriting/devops-technical-test-data`.
+
+Starting from the initial commit [282180fe7e5d9cbf297f2f0ef813cffe60ce2328](https://github.com/descartes-underwriting/devops-technical-test-data/commit/282180fe7e5d9cbf297f2f0ef813cffe60ce2328), all the history should be backup.
 
 ## File structure example
 
