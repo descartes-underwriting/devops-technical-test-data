@@ -32,6 +32,7 @@ Especially:
 
 * <https://github.com/alexandreCameron>
 * <https://github.com/Mareak>
+* <https://github.com/jrdescartes>
 
 ### Script
 
