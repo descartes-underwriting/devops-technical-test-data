@@ -1,0 +1,1 @@
+Looks like the Hadley cell while a pick-and-place robot can refer to the eastern
