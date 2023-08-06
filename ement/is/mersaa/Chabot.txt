@@ -1,0 +1,1 @@
+Decreases as Message encoding and decoding imply that sponges may
