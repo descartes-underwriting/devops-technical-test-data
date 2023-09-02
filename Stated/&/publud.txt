@@ -1,0 +1,1 @@
+Lake within configuration for roads that cross each other, with theoretical movements like shaking
