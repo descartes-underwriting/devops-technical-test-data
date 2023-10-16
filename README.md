@@ -22,17 +22,25 @@ Develop a backup tool to save the modified files at each commit.
 
 ### Submission
 
-Script and data should be saved on a private `candidate/descartes-backup-project` repository on your github account.
+If something is not clear, you can ask questions to the recruiter.
 
-Access should be granted to all members of the `descartes-underwriting` group:
+When submitting your project, your version should **not be draft** but complete and following best practices.
 
-<https://github.com/orgs/descartes-underwriting/people>
+The solution should be saved on a **private** `descartes-devops` repository on your github account.
 
-Especially:
+The solution should include:
 
-* <https://github.com/alexandreCameron>
-* <https://github.com/Mareak>
-* <https://github.com/jrdescartes>
+- source code
+- test code
+
+When the final version is ready:
+
+1. Send an email to the recruiter indicating that you finished the project and sharing the url of the project
+2. Grant access to:
+
+- <https://github.com/alexandreCameron>
+- <https://github.com/Mareak>
+- <https://github.com/jrdescartes>
 
 ### Script
 
