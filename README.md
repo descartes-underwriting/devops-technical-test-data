@@ -40,7 +40,7 @@ When the final version is ready:
 
 - <https://github.com/alexandreCameron>
 - <https://github.com/Mareak>
-- <https://github.com/jrdescartes>
+- <https://github.com/mt94>
 
 ### Script
 
