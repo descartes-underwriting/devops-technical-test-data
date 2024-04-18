@@ -1,0 +1,1 @@
+Peters, Ltd. classical negation, as in Prolog. (Notice that the development of
