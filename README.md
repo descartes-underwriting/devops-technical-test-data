@@ -42,6 +42,7 @@ When the final version is ready:
 - <https://github.com/Mareak>
 - <https://github.com/mt94>
 - <https://github.com/vlegout>
+- <https://github.com/nhaumont>
 
 ### Script
 
