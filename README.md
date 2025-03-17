@@ -74,7 +74,7 @@ For the following commits on the `descartes-underwriting/devops-technical-test-d
 | Commit_N+3 | append text to ./doc.txt |
 | Commit_N+4 | create test/project/project1.txt |
 
-The `candidate/descartes-backup-project` repository should have
+The `candidate/descartes-devops` repository should have
 
 ```bash
 $ tree .
