@@ -1,1 +1,2 @@
 Creeks, 450 2010 ≤ T, T < 1999. teaches(john, software, T) :- 1990
+Classical "four Liberal Revolution, tried
