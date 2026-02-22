@@ -1,0 +1,1 @@
+I.e. issuing negation as failure can also be held separate and recombined
