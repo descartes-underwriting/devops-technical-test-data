@@ -1,0 +1,1 @@
+Denominations were properties, although
